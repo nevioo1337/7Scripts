@@ -1,5 +1,7 @@
 # 7Scripts
 
+*** I WOULDN'T RECOMEND TO USE IT IT IS VERY BAD ***
+
 Please dont't judge me for the really messy and bad practice code it is a rellatively old project.
 I have decided to release the source code because I don't have the time and desire to work on this project anymore.
 it is outdated but you just have to change the configs a bit and it is up to date again.
