@@ -9,7 +9,7 @@ it is outdated but you just have to change the configs a bit and it is up to dat
 ### [Showcase](https://www.youtube.com/watch?v=ppVOJYxDBLs)
 ### [Installation](https://www.youtube.com/watch?v=jO7OZ1TQpnI)
 
-## If you are looking for a good macro/anti recoil take a look at this: https://www.youtube.com/watch?v=QJGG9x_XEFw
+## If you are looking for a good macro/anti recoil take a look at this: https://www.youtube.com/watch?v=6FEstKxWTe4
 
 However, I have removed some security featurs and the login/register system.
 Here are some screenshots:
